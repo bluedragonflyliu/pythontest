@@ -1,0 +1,10 @@
+[import time]
+Dear [name].
+
+I would like to learn how to program. i hear you use the [language] language is lot -- is it something I should consider?
+
+And ,by the way, is [email] you correct email address?
+
+Fooville, [time.asctime()]
+
+Oscar Frozzbozz
